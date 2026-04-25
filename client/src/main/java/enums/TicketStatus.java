@@ -1,7 +1,7 @@
 package com.smartcampus.api.enums;
 
 public enum TicketStatus {
-    OPEN,
+    OPEn,
     IN_PROGRESS,
     RESOLVED,
     CLOSED,
